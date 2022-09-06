@@ -11,6 +11,9 @@
 桶排序               Bucket
 计数排序             Counting
 基数排序             Radix
+image：
+<img width="905" alt="image" src="https://user-images.githubusercontent.com/79436937/188657327-1eb17bce-e27b-4d86-8d0e-42ebcbc67925.png">
+
 口诀：
 //
 选 泡 插;     
