@@ -29,5 +29,5 @@ C Algorithm
 1.SelectionSort(选择排序算法_C语言）
 2.Bullet_Sort(冒泡排序算法_C语言）
 3.Insertion_sort(插入排序算法_C语言）
-4。Heap_sort(堆排序算法_C语言)
+4。Shell_sort(希尔排序算法_C语言)
 
