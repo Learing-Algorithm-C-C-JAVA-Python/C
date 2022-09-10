@@ -1,3 +1,15 @@
+// 输入 arr[n]                                // 输入要排序的序列
+// merge_sort(arr[n] , p , q):                // [p , q] 表示对第 p ~ q 区域内的元素进行归并排序
+//     if p < q :                             // 对 [p , q] 区域不断采用对半分割的方式，最终将整个区域划分为多个仅包含 1 个元素（p==q）的序列
+//         mid = ⌊(p+q)/2⌋
+//         merge_sort(arr , p , mid)
+//         merge_sort(arr , mid+1 , q)
+//         merge(arr , p , mid , q)          // 调用实现归并过程的代码模块
+// merge_sort() 用于将整个序列分割成多个子序列，merge() 用来合并这些子序列，合并的实现方式为：
+// 从 [p, mid] 和 [mid+1, q] 两个区域的元素分别拷贝到 leftarr 和 rightarr 区域。
+// 从 leftarr 和 rightarr 区域中各个取出第一个元素，比较它们的大小；
+// 将较小的元素拷贝到 [p, q] 区域，然后从较小元素所在的区域内取出下一个元素，继续进行比较；
+// 重复执行第 3 步，直至 leftarr 和 rightarr 内的元素全部拷贝到 [p, q] 为止。如果 leftarr 或者 rightarr 有一方为空，则直接将另一方的所有元素依次拷贝到 [p, q] 区域。
 // 伪代码：
 // merge(arr[n] , p , mid , q):                          // 该算法表示将 [p , mid] 和 [mid+1 , q] 做归并操作
 //     leftnum <- mid - p + 1                            // 统计 [p , mid] 区域内的元素个数
