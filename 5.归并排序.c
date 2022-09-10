@@ -1,3 +1,19 @@
+// 伪代码：
+// merge(arr[n] , p , mid , q):                          // 该算法表示将 [p , mid] 和 [mid+1 , q] 做归并操作
+//     leftnum <- mid - p + 1                            // 统计 [p , mid] 区域内的元素个数
+//     rightnum <- q - mid                               // 统计 [mid+1 , q] 区域内的元素个数
+//     leftarr[leftnum] <- arr[p ... mid]                // 分别将两个区域内的元素各自拷贝到另外两个数组中
+//     rightarr[rightnum] <- arr[mid+1 ... q]
+//     i <- 1 , j <- 1
+//     for k <- p to q :             // 从 leftarr 和 rightarr 数组中第 1 个元素开始，比较它们的大小，将较小的元素拷贝到 arr 数组的 [p , q] 区域
+//         if leftarr[i] ≤ rightarr[j] :
+//             arr[k] = leftarr[i]
+//             i <- i+1
+//         else :
+//             arr[k] = right[j]
+//             j <- j+1
+
+
 # include<stdio.h>
 void merge(int* arr,int p, int mid,int q);
 void merge_sort(int* arr,int p,int q);
