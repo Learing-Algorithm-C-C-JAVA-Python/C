@@ -34,6 +34,7 @@ C Algorithm
 5.merge_sort(归并排序算法_C语言）
 <img width="656" alt="image" src="https://user-images.githubusercontent.com/79436937/189466569-bcc332f4-2eab-4e06-9d8e-46d6579a269a.png">
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/79436937/189466585-0296ad27-bf16-4e62-8e49-f29581735306.png">
-5.quick_sort(快速排序算法）
+5.merge_sort(归并排序算法_C语言）
+6.quick_sort(快速排序算法——C语言）
 
 
