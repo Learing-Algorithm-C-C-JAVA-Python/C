@@ -26,16 +26,16 @@ image：
 
 C Algorithm 
 算法
-1.SelectionSort(选择排序算法_C语言）
-2.Bullet_Sort(冒泡排序算法_C语言）
-3.Insertion_sort(插入排序算法_C语言）
-4。Shell_sort(希尔排序算法_C语言)
-![2-210R0104HD32](https://user-images.githubusercontent.com/79436937/189141680-245e069e-6994-420a-a389-7f89bfa7cc02.gif)
-5.merge_sort(归并排序算法_C语言）
-<img width="656" alt="image" src="https://user-images.githubusercontent.com/79436937/189466569-bcc332f4-2eab-4e06-9d8e-46d6579a269a.png">
-<img width="621" alt="image" src="https://user-images.githubusercontent.com/79436937/189466585-0296ad27-bf16-4e62-8e49-f29581735306.png">
-5.merge_sort(归并排序算法_C语言）
-6.quick_sort(快速排序算法——C语言）
+//1.SelectionSort(选择排序算法_C语言）
+//2.Bullet_Sort(冒泡排序算法_C语言）
+//3.Insertion_sort(插入排序算法_C语言）
+//4.Shell_sort(希尔排序算法_C语言)
+#####![2-210R0104HD32](https://user-images.githubusercontent.com/79436937/189141680-245e069e-6994-420a-a389-7f89bfa7cc02.gif)
+//5.merge_sort(归并排序算法_C语言）
+#####<img width="656" alt="image" src="https://user-images.githubusercontent.com/79436937/189466569-bcc332f4-2eab-4e06-9d8e-46d6579a269a.png">
+#####<img width="621" alt="image" src="https://user-images.githubusercontent.com/79436937/189466585-0296ad27-bf16-4e62-8e49-f29581735306.png">
+#####5.merge_sort(归并排序算法_C语言）
+######6.quick_sort(快速排序算法——C语言）
 <img width="621" alt="image" src="http://c.biancheng.net/uploads/allimg/210820/2-210R013091N51.gif">
 
 
