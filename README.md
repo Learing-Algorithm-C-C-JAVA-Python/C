@@ -24,20 +24,20 @@ image：
 不 稳 不 稳 稳 稳 稳;
 //
 
-C Algorithm 
-算法
-//1.SelectionSort(选择排序算法_C语言）</br>
-//2.Bullet_Sort(冒泡排序算法_C语言）</br>
-//3.Insertion_sort(插入排序算法_C语言）</br>
-//4.Shell_sort(希尔排序算法_C语言)</br>
-#####![2-210R0104HD32](https://user-images.githubusercontent.com/79436937/189141680-245e069e-6994-420a-a389-7f89bfa7cc02.gif)</br>
-//5.merge_sort(归并排序算法_C语言）</br>
-#####<img width="656" alt="image" src="https://user-images.githubusercontent.com/79436937/189466569-bcc332f4-2eab-4e06-9d8e-46d6579a269a.png"></br>
-#####<img width="621" alt="image" src="https://user-images.githubusercontent.com/79436937/189466585-0296ad27-bf16-4e62-8e49-f29581735306.png"></br>
-#####5.merge_sort(归并排序算法_C语言）</br>
-######6.quick_sort(快速排序算法——C语言）</br>
+C Algorithm </br>
+算法</br>
+1.SelectionSort(选择排序算法_C语言）</br>
+2.Bullet_Sort(冒泡排序算法_C语言）</br>
+3.Insertion_sort(插入排序算法_C语言）</br>
+4.Shell_sort(希尔排序算法_C语言)</br>
+![2-210R0104HD32](https://user-images.githubusercontent.com/79436937/189141680-245e069e-6994-420a-a389-7f89bfa7cc02.gif)</br>
+5.merge_sort(归并排序算法_C语言）</br>
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/79436937/189466569-bcc332f4-2eab-4e06-9d8e-46d6579a269a.png"></br>
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/79436937/189466585-0296ad27-bf16-4e62-8e49-f29581735306.png"></br>
+5.merge_sort(归并排序算法_C语言）</br>
+6.quick_sort(快速排序算法——C语言）</br>
 <img width="621" alt="image" src="http://c.biancheng.net/uploads/allimg/210820/2-210R013091N51.gif"></br>
-#######7.顺序排序(linear_sort.c)</br>
+7.顺序排序(linear_sort.c)</br>
 <img width="621" alt="image" src="http://c.biancheng.net/uploads/allimg/210820/2-210R0143451633.gif"></br>
 
 
