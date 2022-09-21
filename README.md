@@ -37,6 +37,8 @@ C Algorithm
 #####5.merge_sort(归并排序算法_C语言）
 ######6.quick_sort(快速排序算法——C语言）
 <img width="621" alt="image" src="http://c.biancheng.net/uploads/allimg/210820/2-210R013091N51.gif">
+#######7.顺序排序(linear_sort.c)
+<img width="621" alt="image" src="http://c.biancheng.net/uploads/allimg/210820/2-210R0143451633.gif">
 
 
 
