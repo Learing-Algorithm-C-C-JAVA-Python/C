@@ -1,5 +1,4 @@
-# C
-<p>
+<p align = "center">
   <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%AC%A2%E8%BF%8E%E5%AD%A6%E4%B9%A0C%E8%AF%AD%E8%A8%80%E2%80%94%E7%AE%97%E6%B3%95%F0%9F%91%8F%F0%9F%91%8F%F0%9F%91%8F%F0%9F%91%8F%F0%9F%91%8F%F0%9F%91%8F">
   </p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&border_radius=45&theme=dracula&layout=compact" width="300"></a>
