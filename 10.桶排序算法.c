@@ -103,3 +103,4 @@ void print(float ar[]) {
         printf("%.2f ", ar[i]);
     }
 }
+
